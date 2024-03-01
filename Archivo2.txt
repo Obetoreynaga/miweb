@@ -13,4 +13,9 @@ git restore --staged ARCHIVO
 mv numere1 nombre2  (cambiar nombre)
 comet . (comentar)
 
+(carpeta de .gitignore)
+
+.env  (agregar archivos como pass)
+
+
 
