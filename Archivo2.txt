@@ -1,0 +1,16 @@
+pwd  (saber donde te encuentras)
+ls (ver archios)
+cd (ir a)
+mkdir (crear carpeta)
+git init
+
+code .
+git add
+git status
+gitt commit -m "Commit Inicial"
+rm (remover)
+git restore --staged ARCHIVO
+mv numere1 nombre2  (cambiar nombre)
+comet . (comentar)
+
+
